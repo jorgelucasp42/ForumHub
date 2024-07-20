@@ -1,4 +1,4 @@
-package com.alura.forum.service;
+package com.alura.service;
 
 import com.alura.forum.model.Topico;
 import com.alura.forum.repository.TopicoRepository;
